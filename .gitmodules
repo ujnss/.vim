@@ -4,3 +4,6 @@
 [submodule "pack/mypack/start/vim-gutentags"]
 	path = pack/mypack/start/vim-gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags.git
+[submodule "pack/mypack/start/YouCompleteMe"]
+	path = pack/mypack/start/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
