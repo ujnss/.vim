@@ -9,7 +9,7 @@ Ensure your vim version is greater than 8.0.
 Init.
 
 ```bash
-git clone https://github.com/ujnss/.vim.git ~/.vim
+git clone --recursive https://github.com/ujnss/.vim.git ~/.vim
 ```
 
 Add a package.
