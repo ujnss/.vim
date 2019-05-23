@@ -16,8 +16,13 @@ Add a package.
 
 ```bash
 cd ~/.vim
-
 git submodule add https://github.com/vim-airline/vim-airline.git pack/mypack/start/vim-airline
 ```
 
 and so on.
+
+Upgrade.
+
+```bash
+git submodule update --recursive --remote
+```
