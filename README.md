@@ -9,15 +9,20 @@ Ensure your vim version is greater than 8.0.
 Init.
 
 ```bash
-git clone https://github.com/ujnss/.vim.git ~/.vim
+git clone --recursive https://github.com/ujnss/.vim.git ~/.vim
 ```
 
 Add a package.
 
 ```bash
 cd ~/.vim
-
 git submodule add https://github.com/vim-airline/vim-airline.git pack/mypack/start/vim-airline
 ```
 
 and so on.
+
+Upgrade.
+
+```bash
+git submodule update --recursive --remote
+```
