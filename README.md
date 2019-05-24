@@ -12,7 +12,9 @@ Ensure your vim version is greater than 8.0.
 git clone --recursive https://github.com/ujnss/.vim.git ~/.vim
 ```
 
-For YouCompleteMe, [install it](https://github.com/Valloric/YouCompleteMe#installation).
+For YouCompleteMe, [install reference](https://github.com/Valloric/YouCompleteMe#installation).
+
+For vim-gutentags, install ctags.
 
 - Add a package.
 
