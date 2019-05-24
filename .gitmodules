@@ -7,3 +7,6 @@
 [submodule "pack/mypack/start/YouCompleteMe"]
 	path = pack/mypack/start/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "pack/mypack/start/vim-airline-themes"]
+	path = pack/mypack/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
