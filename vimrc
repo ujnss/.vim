@@ -1,8 +1,3 @@
-" vim: set sw=4 ts=4 sts=4 et tw=78 foldmarker={,} foldlevel=0 foldmethod=marker spell:
-
-set sw=4 ts=4 sts=4 et tw=78 foldmarker={,} foldlevel=0 foldmethod=marker 
-
-set number                    " Line numbers on
 
 function! LoadConfig(name)
 	let confpath = expand('~/.vim/conf/'.a:name)
@@ -12,5 +7,10 @@ function! LoadConfig(name)
 	endif
 endfunction
 
+" basic
+call LoadConfig("basic.vimrc")
+
+" plugins
 call LoadConfig("vim-airline.vimrc")
+
 
