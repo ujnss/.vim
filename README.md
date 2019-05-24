@@ -6,7 +6,7 @@ Ensure your vim version is greater than 8.0.
 
 # Usage
 
-Init.
+- Init.
 
 ```bash
 git clone --recursive https://github.com/ujnss/.vim.git ~/.vim
@@ -14,7 +14,7 @@ git clone --recursive https://github.com/ujnss/.vim.git ~/.vim
 
 For YouCompleteMe, [install it](https://github.com/Valloric/YouCompleteMe#installation).
 
-Add a package.
+- Add a package.
 
 ```bash
 cd ~/.vim
@@ -23,7 +23,7 @@ git submodule add https://github.com/vim-airline/vim-airline.git pack/mypack/sta
 
 and so on.
 
-Upgrade.
+- Upgrade.
 
 ```bash
 git submodule update --recursive --remote
