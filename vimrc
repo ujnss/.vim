@@ -12,5 +12,6 @@ call LoadConfig("basic.vimrc")
 
 " plugins
 call LoadConfig("vim-airline.vimrc")
+call LoadConfig("vim-gutentags.vimrc")
 
 
