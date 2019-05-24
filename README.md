@@ -12,6 +12,8 @@ Init.
 git clone --recursive https://github.com/ujnss/.vim.git ~/.vim
 ```
 
+For YouCompleteMe, [install it](https://github.com/Valloric/YouCompleteMe#installation).
+
 Add a package.
 
 ```bash
