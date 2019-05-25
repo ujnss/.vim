@@ -15,5 +15,6 @@ call LoadConfig("vim-airline.vimrc")
 call LoadConfig("vim-gutentags.vimrc")
 call LoadConfig("YouCompleteMe.vimrc")
 call LoadConfig("nerdtree.vimrc")
+call LoadConfig("vim-which-key.vimrc")
 
 

@@ -19,3 +19,6 @@
 [submodule "pack/mypack/start/LeaderF"]
 	path = pack/mypack/start/LeaderF
 	url = https://github.com/Yggdroot/LeaderF.git
+[submodule "pack/mypack/start/vim-which-key"]
+	path = pack/mypack/start/vim-which-key
+	url = https://github.com/liuchengxu/vim-which-key.git
