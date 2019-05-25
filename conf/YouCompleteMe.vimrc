@@ -16,7 +16,7 @@ let g:ycm_collect_identifiers_from_tags_files = 1
 let g:ycm_collect_identifiers_from_comments_and_strings = 1
 
 "cp ~/.vim/pack/mypack/start/YouCompleteMe/third_party/ycmd/.ycm_extra_conf.py ~/.vim/conf/
-let g:ycm_global_ycm_extra_conf = '~/.vim/conf/.ycm_extra_conf.py'
+"let g:ycm_global_ycm_extra_conf = '~/.vim/conf/.ycm_extra_conf.py'
 
 let g:ycm_semantic_triggers =  {
            \ 'c,cpp,python,java,go,erlang,perl': ['re!\w{2}'],
