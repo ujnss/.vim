@@ -16,3 +16,6 @@
 [submodule "pack/mypack/start/ale"]
 	path = pack/mypack/start/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "pack/mypack/start/LeaderF"]
+	path = pack/mypack/start/LeaderF
+	url = https://github.com/Yggdroot/LeaderF.git
