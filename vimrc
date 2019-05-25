@@ -8,13 +8,13 @@ function! LoadConfig(name)
 endfunction
 
 " basic
-call LoadConfig("basic.vimrc")
+call LoadConfig("basic.vim")
 
 " plugins
-call LoadConfig("vim-airline.vimrc")
-call LoadConfig("vim-gutentags.vimrc")
-call LoadConfig("YouCompleteMe.vimrc")
-call LoadConfig("nerdtree.vimrc")
-call LoadConfig("vim-which-key.vimrc")
+call LoadConfig("vim-airline.vim")
+call LoadConfig("vim-gutentags.vim")
+call LoadConfig("YouCompleteMe.vim")
+call LoadConfig("nerdtree.vim")
+call LoadConfig("vim-which-key.vim")
 
 
