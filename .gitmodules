@@ -22,3 +22,6 @@
 [submodule "pack/mypack/start/vim-which-key"]
 	path = pack/mypack/start/vim-which-key
 	url = https://github.com/liuchengxu/vim-which-key.git
+[submodule "pack/mypack/start/vim-fugitive"]
+	path = pack/mypack/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
