@@ -14,7 +14,7 @@ nmap LE $
 
 let mapleader = ','           " Map <Leader>, default is '\'
 
-set history=1000              " Store a ton of history(default is 20)
+set history=10000             " Store a ton of history(default is 20)
 set autowrite                 " Automatically write a file when leaving a modified buffer
 
 "set spell                     " Spell checking on
